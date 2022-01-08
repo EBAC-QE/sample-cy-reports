@@ -2,3 +2,4 @@ node_modules
 allure-results
 data
 mochawesome-report
+allure-report
